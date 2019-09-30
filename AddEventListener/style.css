@@ -1,0 +1,9 @@
+body {
+  background-color: wheat;
+}
+
+div {
+  background-color: coral;
+  border: 1px solid;
+  padding: 50px;
+}
